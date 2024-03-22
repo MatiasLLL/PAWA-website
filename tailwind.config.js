@@ -7,9 +7,9 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'bg': "url('src/assets/woooow-bg.png')",
-        'bg2': "url('src/assets/woooow-bg2.png')",
-        'bg3': "url('src/assets/woooow-bg3.png')"
+        // 'bg3': "url('PAWA-website/src/assets/woooow-bg3.png')"
+        // 'bg3': "url('src/assets/woooow-bg3.png')"
+
       },
       colors : {
         'prpl': "#c241f4"

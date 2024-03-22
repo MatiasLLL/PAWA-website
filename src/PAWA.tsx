@@ -24,8 +24,8 @@ function Pawa() {
       <footer className="flex flex-col md:w-4/5 pt-8 mt-8 mb-1 xs:w-full">
         <div className="flex flex-col justify-around items-start w-full pt-2 mt-3">
           <h2 className="font-bold pt-1">Contact</h2>
-          <a href="mailto:space@dolphin.xyz" >
-            token@pawa.xyz
+          <a href="mailto:info@pawatoken.xyz" >
+            info@pawatoken.xyz
           </a>
           <p className="sm:text-xl text-sm md:text-2xl">
             Contract address:<br/>

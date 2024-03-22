@@ -5,7 +5,7 @@ import { LiaTelegramPlane } from "react-icons/lia";
 
 
 function Pawa() {
-  const UniswapLink = ""
+  const UniswapLink = "#"
 
   return (
     <main className="bg-[url('./assets/woooow-bg3.png')] w-screen aspect-bg min-h-lvh bg-cover bg-center  font-medium bg-no-repeat text-prpl font-satoshi flex flex-col justify-around items-center lg:px-[12.75rem] md:px-10 xs:px-3 lg:text-2xl md:text-xl sm:text-md">

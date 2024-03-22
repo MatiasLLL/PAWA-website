@@ -23,7 +23,7 @@ jobs:
         uses: bahmutov/bun-install@v1
 
       - name: Build project
-        run: bun run build
+        run: bunx run build
 
       - name: Upload production-ready build files
         uses: actions/upload-artifact@v2

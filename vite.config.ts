@@ -7,5 +7,6 @@ export default defineConfig({
   server: {
     port: 2100,
   },
-  base: "/PAWA-website/"
+  base: "/"
+  // base: "/PAWA-website/"
 })

@@ -7,5 +7,5 @@ export default defineConfig({
   server: {
     port: 2100,
   },
-  base: "/vite-deploy/"
+  base: "/PAWA-website/"
 })

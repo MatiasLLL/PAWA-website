@@ -17,7 +17,7 @@ function Pawa() {
           <span className="underline underline-offset-3">Buy on Uniswap</span>
           <img src={logoUniswap} alt="Uniswap logo" className="token-svg group w-10 h-full pl-1 pb-1 m-2" />
         </a>
-        <a className="underline underline-offset-3 cursor-pointer  pt-4 ml-2" href="https://polygonscan.com/address/0x">
+        <a className="underline underline-offset-3 cursor-pointer  pt-4 ml-2" href="https://polygonscan.com/address/0xbD2C3d9498F73988fff6af4778f1E7c8033A771C">
           View on PolygonScan
         </a>
       </section>

@@ -33,10 +33,10 @@ function Pawa() {
           </p>
         </div>
         <div className="flex justify-end items-end w-full min-h-20 mt-8">
-          <a href="" className="flex text-prpl text-[2.75rem] mt-2 ml-6 p-4">
+          <a href="https://twitter.com/PAWAtoken" className="flex text-prpl text-[2.75rem] mt-2 ml-6 p-4">
             <FaXTwitter />
           </a>
-          <a href="" className="flex text-[3rem] mt-2 mx-6 p-4">
+          <a href="https://t.me/+np55dciTnr45YmNk" className="flex text-[3rem] mt-2 mx-6 p-4">
             <LiaTelegramPlane />
           </a>
         </div>

@@ -28,7 +28,7 @@ function Pawa() {
           </a>
           <p className="sm:text-xl text-sm md:text-2xl">
             Contract address:<br/>
-            0x5C9bC954F6ed9500A4851c2e3A9b286bF8918c2A
+            0xbD2C3d9498F73988fff6af4778f1E7c8033A771C
           </p>
         </div>
         <div className="flex justify-end items-end w-full min-h-20 mt-8">
